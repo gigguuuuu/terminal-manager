@@ -1,0 +1,8 @@
+this is just a normal prototype and working on the web based gui interface using flutter and web assembly and i am not releasing the orginal version for it because this is a personal project and i want to do my own thing and things i want to improve about this is :
+
+gui;
+failed commands;
+web based;
+executation level on the api;
+networking with more ai api's to create a model for this;
+and making this on dart and flutter;
