@@ -22,3 +22,6 @@ It gives users a customizable, powerful, and developer-friendly terminal layer w
 🖥️ GUI Mode (Upcoming) — Flutter + Dart frontend
 
 🤖 AI-Assisted Terminal (Future Release) — integrated OpenAI API
+
+
+https://chat.whatsapp.com/JPHe8aW9myRLeQgx8KZWDp
